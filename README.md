@@ -63,7 +63,7 @@ mvn test -Dcucumber.options="--tags @smoke"
 ## Test Coverage
 ### The test suite covers the following scenarios:
  1.Basic eligibility check for a UK citizen.  
- 2. Specific case for Northern Ireland citizens.  
+ 2. Specific case for Northern Ireland citizens. (Included positive and negative tests)  
  3. Various combinations of multiple circumstances.   
  4. Exceptional cases (e.g., diabetes, care home).  
  5. Cross-browser compatibility (Chrome, Edge).
