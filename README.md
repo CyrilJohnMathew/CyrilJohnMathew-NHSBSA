@@ -72,7 +72,14 @@ mvn test -Dcucumber.filter.tags="@exceptional"
  3. Various combinations of multiple circumstances. (Country - Eng, Wales, & Scotland)  
  4. Exceptional cases (e.g., diabetes, care home).  
  5. Cross-browser compatibility (Chrome, Edge).
-
+    
+## Included Edge Cases
+### The test suite covers the following edge cases:
+ 1. Northern Ireland should not be able to use the service.     
+ 2. Users with Diabetes and Care Home have different workflow to get result.
+ 3. Cross-Browser case.
+ 4. Negative cases - Trying to proceed with out selecting options.
+    
 ## Test Coverage Matrix
 
 | Test Scenario | Acceptance Criteria Covered | Status |
