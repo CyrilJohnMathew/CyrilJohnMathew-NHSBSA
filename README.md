@@ -57,7 +57,7 @@ mvn test
 
 ### Running tests with specific tag
 ```sh
-mvn test -Dcucumber.options="--tags @smoke"
+mvn test -Dcucumber.filter.tags="@smoke"
 ```
 
 ## Test Coverage
