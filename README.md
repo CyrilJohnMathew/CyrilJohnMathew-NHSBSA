@@ -36,7 +36,7 @@ src
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/CyrilJohnMathew/NHSBSAtest.git
+   git clone https://github.com/CyrilJohnMathew/CyrilJohnMathew-NHSBSA.git
    ```
 2. Navigate to the project directory:
    ```sh
