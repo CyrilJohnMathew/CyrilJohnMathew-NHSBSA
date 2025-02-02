@@ -42,12 +42,13 @@ src
    ```sh
    cd NHSBSAtest
    ```
-   (Navigate to Downloaded Project location.
-    If the project location is C:\Users\cyril\eclipse-workspace\NHSBSAtest , then cd C:\Users\cyril\eclipse-workspace\NHSBSAtest )
+   (Navigate to Downloaded Project location.  
+   If the project location is C:\Users\cyril\eclipse-workspace\NHSBSAtest, then cd C:\Users\cyril\eclipse-workspace\NHSBSAtest )
 4. Install dependencies:
    ```sh
    mvn clean install
    ```
+   Mentioned in the pom.xml file. 
 
 ## Running Tests
 ### Running all tests
