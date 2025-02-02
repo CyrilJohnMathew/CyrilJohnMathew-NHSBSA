@@ -59,6 +59,10 @@ mvn test
 ```sh
 mvn test -Dcucumber.filter.tags="@smoke"
 ```
+or 
+```sh
+mvn test -Dcucumber.filter.tags="@exceptional"
+```
 
 ## Test Coverage
 ### The test suite covers the following scenarios:
