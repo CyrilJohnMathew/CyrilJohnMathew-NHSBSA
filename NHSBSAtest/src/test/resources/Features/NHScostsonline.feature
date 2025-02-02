@@ -14,7 +14,7 @@ Feature: NHS costs online service checker tool
     When I put my circumstances into the Checker tool
     Then I should get a result of whether I will get help or not
       
-  @northernireland
+  @northernireland @negative
   Scenario: Checking eligibility for NHS costs online service help for Northern Ireland user
     Given I am a citizen of the UK
     When I try to proceed without selecting a country
