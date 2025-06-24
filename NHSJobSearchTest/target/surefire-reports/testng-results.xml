@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-06-24T22:43:27 IST" name="NHS Job Search Test Suite" finished-at="2025-06-24T22:44:12 IST" duration-ms="45134">
+    <groups>
+      <group name="cucumber">
+        <method signature="AbstractTestNGCucumberTests.runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6cf0e0ba]" name="runScenario" class="io.cucumber.testng.AbstractTestNGCucumberTests"/>
+      </group> <!-- cucumber -->
+    </groups>
+    <test started-at="2025-06-24T22:43:27 IST" name="NHS Job Search Feature Tests" finished-at="2025-06-24T22:44:12 IST" duration-ms="45134">
+      <class name="runner.TestRunner">
+        <test-method is-config="true" signature="setUpClass(org.testng.ITestContext)[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:43:27 IST" name="setUpClass" finished-at="2025-06-24T22:43:27 IST" duration-ms="491" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[org.testng.TestRunner@5d9618f2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUpClass -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:43:27 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-24T22:43:39 IST" duration-ms="11207" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["NHS job Search with preferences in multiple browsers"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["NHS Job Search functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:43:39 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-24T22:43:50 IST" duration-ms="11747" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["NHS job Search with preferences in multiple browsers"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["NHS Job Search functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:43:50 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-24T22:44:00 IST" duration-ms="9746" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["NHS job Search with preferences in multiple browsers"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["NHS Job Search functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method signature="runScenario(io.cucumber.testng.PickleWrapper,io.cucumber.testng.FeatureWrapper)[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:44:00 IST" name="runScenario" description="Runs Cucumber Scenarios" data-provider="scenarios" finished-at="2025-06-24T22:44:12 IST" duration-ms="11845" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA["NHS job Search with preferences in multiple browsers"]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA["NHS Job Search functionality"]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- runScenario -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:runner.TestRunner@6cf0e0ba]" started-at="2025-06-24T22:44:12 IST" name="tearDownClass" finished-at="2025-06-24T22:44:12 IST" duration-ms="61" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDownClass -->
+      </class> <!-- runner.TestRunner -->
+    </test> <!-- NHS Job Search Feature Tests -->
+  </suite> <!-- NHS Job Search Test Suite -->
+</testng-results>
