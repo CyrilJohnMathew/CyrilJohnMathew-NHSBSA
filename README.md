@@ -22,10 +22,10 @@ Ensure the following are installed:
 
 1. **Clone the repository:**
    ```bash
-   git clone https://github.com/your-repo/nhs-jobsearch-automation.git
+   git clone https://github.com/CyrilJohnMathew/CyrilJohnMathew-NHSBSA.git
 2. **Navigate to the project directory:**
   ```bash
-  cd nhs-jobsearch-automation
+  cd NHSJobSearchTest
  ```
 3. **Install dependencies:**
   ```bash
