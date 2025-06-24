@@ -14,26 +14,7 @@ Ensure the following are installed:
 --------------------------------------------------------------
 ## Project Structure
 
-src
-├── test
-│   ├── java
-│   │   ├── pages                # Page Object Model for NHS job search page
-│   │   │   └── NHSSearchPage.java
-│   │   ├── runner               # TestNG-based Cucumber runner
-│   │   │   └── TestRunner.java
-│   │   ├── stepdefinitions      # Glue code for feature steps
-│   │   │   └── NHSJobSearchSteps.java
-│   │   └── utils                # Utilities like DriverFactory and Axe Checker
-│   │       ├── DriverFactory.java
-│   │       └── AccessibilityChecker.java
-│   └── resources
-│       ├── Features             # Cucumber feature files
-│       │   └── jobsearch.feature
-│       ├── config               # Config files
-│       │   └── config.properties
-│       └── axe.min.js           # Local copy of axe-core for accessibility checks
-├── pom.xml                      # Project dependencies and build configuration
-└── testng.xml                   # TestNG suite configuration
+![image](https://github.com/user-attachments/assets/dc207cf2-2605-43ac-8108-8295117b73a1)
 
 -------------------------------------------------------------
 
