@@ -33,7 +33,7 @@ mvn clean install
 ```
 -------------------------------------------------------------
 ## Running the Tests
-* Open command prompt or terminal.
+* Open **command prompt**.
 * Navigate to the project root. 
 ### Run All Tests:
 * mvn test  (will pick Chrome as default browser)
