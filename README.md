@@ -43,7 +43,10 @@ Example:
 * mvn test -Dbrowser=chrome (to run the program in Chrome Browser)
 * mvn test -Dbrowser=firefox (to run the program in Firefox Browser)
 ### Run with Tags (e.g., @crossbrowser):
-* mvn test -Dcucumber.filter.tags="@crossbrowser"
+  1. For Command Prompt
+  * mvn test -Dcucumber.filter.tags="@crossbrowser"
+  2. For Windows Power shell
+  * mvn test '-Dcucumber.filter.tags=@crossbrowser'
 
 --------------------------------------------------------------
 ## What’s Covered
