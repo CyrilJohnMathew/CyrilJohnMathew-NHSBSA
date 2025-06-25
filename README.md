@@ -61,4 +61,5 @@ Example:
 •	HTML Report:
 1. Cucumber: /NHSJobSearchTest/target/cucumber-reports/cucumber-pretty/index.html
 2. TestNG: /NHSJobSearchTest/target/surefire-reports/index.html
+
 •	JSON Report: target/cucumber-reports/cucumber.json
